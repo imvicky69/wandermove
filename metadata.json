@@ -1,5 +1,0 @@
-{
-  "name": "Gemini Movie Showcase",
-  "description": "A responsive React and Tailwind CSS web application that showcases a collection of movie posters, with interactive filtering, sorting, and Gemini API-powered movie insights.",
-  "requestFramePermissions": []
-}
